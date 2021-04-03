@@ -1,0 +1,20 @@
+{
+  "name": "GDNDesktop",
+  "version": "1.0.0",
+  "description": "GDN ipfs desktop project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/GDNChain/GDNDesktop.git",
+  "keywords": [
+    "Electron",
+    "GDN",
+    "ipfs"
+  ],
+  "author": "GDNChain",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
