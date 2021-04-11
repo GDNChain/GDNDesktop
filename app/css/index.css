@@ -1,0 +1,18 @@
+.left_bar{
+    width: 100px;
+    /* height: unset; */
+    background-color: antiquewhite;
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+  }
+  .right_con{
+    background-color: aqua;
+    /* width: 100%; */
+    position: absolute;
+    left: 100px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+  }
